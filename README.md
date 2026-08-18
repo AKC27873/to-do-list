@@ -1,2 +1,10 @@
 # to-do-list
-to-do list for the terminal
+
+> Simple Sloppy C script for a to-do list
+
+* To build and run it:
+
+```bash
+gcc -Wall -Wextra -o todo todo.c
+./todo
+```

@@ -5,6 +5,6 @@
 * To build and run it:
 
 ```bash
-gcc -Wall -Wextra -o todo todo.c
+gcc -Wall -Wextra -o todo main.c
 ./todo
 ```
